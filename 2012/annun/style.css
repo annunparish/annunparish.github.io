@@ -1,0 +1,74 @@
+@charset "utf-8";
+/*
+Author: Annunciation of Our Lord Parish
+ */
+
+.home {
+	display: block;
+	width: 75px;
+	height:55px;
+	background:url(buttons/home.png) bottom;
+	text-indent: -99999px;	
+}
+	
+.home:hover {
+	width: 75px;
+	height:55px;
+	background-image:url(buttons/homeb.png)
+}
+
+.about {
+	display: block;
+	width: 85px;
+	height:55px;
+	background:url(buttons/about.png) bottom;
+	text-indent: -99999px;	
+}
+
+.about:hover {
+	width: 85px;
+	height:55px;
+	background-image:url(buttons/aboutb.png)
+}
+
+.community {
+	display: block;
+	width: 125px;
+	height:55px;
+	background:url(buttons/community.png) bottom;
+	text-indent: -99999px;	
+}
+
+.community:hover {
+	width: 125px;
+	height:55px;
+	background-image:url(buttons/communityb.png)
+}
+
+.contact {
+	display: block;
+	width: 85px;
+	height:55px;
+	background:url(buttons/contact.png) bottom;
+	text-indent: -99999px;	
+}
+
+.contact:hover {
+	width: 85px;
+	height:55px;
+	background-image:url(buttons/contactb.png)
+}
+
+.bulletin {
+	display: block;
+	width: 80px;
+	height:55px;
+	background:url(buttons/bulletin.png) bottom;
+	text-indent: -99999px;	
+}
+
+.bulletin:hover {
+	width: 80px;
+	height:55px;
+	background-image:url(buttons/bulletinb.png)
+}
